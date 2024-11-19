@@ -19,7 +19,7 @@ I'm a passionate Frontend Developer, specializing in creating beautiful and resp
 
 ## Projects
 
-* **[Portfolio Website](link-to-project):** A personal website to showcase my work and skills.
+* **[Portfolio Website](https://candela-sv.github.io):** A personal website to showcase my work and skills.
 
 ## Let's Connect!
 
