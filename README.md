@@ -1,6 +1,6 @@
 # Hi, I'm Candela Simón 👋
 
-🌟 **Frontend Developer | UI Enthusiast | Lifelong Learner**  
+🌟 **Frontend Developer**  
 I specialize in creating **beautiful**, **responsive**, and **functional** user interfaces. Passionate about modern web technologies and continuously honing my skills.  
 
 ---
