@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Candela Simón 👋
 
-<!--
-**CandelaSimonDesktop/CandelaSimonDesktop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Frontend Developer, specializing in creating beautiful and responsive user interfaces. I enjoy working with modern web technologies and constantly learning new things to improve my skills.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Frontend:** HTML, CSS, JavaScript, React, TypeScript
+* **CSS Frameworks:** Tailwind CSS, Bootstrap
+* **Version Control:** Git, GitHub
+* **Tools & Technologies:** npm, Figma
+
+## Experience
+
+ **Frontend Developer** at **Firechip** (November 18, 2024 - April 7, 2025)
+  - Developed and maintained design systems with React for multiple brands, ensuring consistency and scalability across various applications.
+  - Built Progressive Web Apps with a focus on performance, accessibility, and offline functionality.
+  - Collaborated with backend developers to integrate GraphQL APIs, enabling efficient data fetching and management.
+  - Contributed to the development of user interfaces for IoT and mobile device management applications, focusing on user experience and responsive design.
+
+## Projects
+
+* **[Portfolio Website](link-to-project):** A personal website to showcase my work and skills.
+
+## Let's Connect!
+
+* [LinkedIn Profile](https://www.linkedin.com/in/candela-simón-verdaguer/)
