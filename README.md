@@ -47,4 +47,4 @@ I specialize in creating **beautiful**, **responsive**, and **functional** user 
 
 ## 🤝 **Let's Connect!**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/candela-s
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/candela-simón-verdaguer/)  
