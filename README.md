@@ -29,7 +29,7 @@ I specialize in creating **beautiful**, **responsive**, and **functional** user 
 ## 💼 **Experience**
 
 ### **Frontend Developer** at **Firechip**  
-*November 2024 – April 2025*  
+*November 2024 – December 2024*  
 
 - 🛠️ Developed and maintained **design systems** with React for multiple brands, ensuring consistency and scalability.  
 - 🌐 Built **Progressive Web Apps** focusing on performance, accessibility, and offline functionality.  
